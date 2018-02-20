@@ -15,5 +15,5 @@ webtest是源代码，.jar是已经打包好的，可以直接使用的jar包
 2.如何在selenium代码中直接嵌入javascript  
 
 ## TestBaidu, TestTaobao
-selenium基本的使用的例子。  
+selenium基本的使用的例子。    
 在TestTaobao里实现了淘宝网的拖动进度条验证登录
