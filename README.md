@@ -11,7 +11,7 @@ webtest是源代码，.jar是已经打包好的，可以直接使用的jar包
 ## TestMyPages
 用selenium测试本地的一个html网页。  
 其中用到了：  
-1.selenium的等待方法，一直等到所期望的标签出现再进行操作。   
+1.selenium的等待方法，一直等到所期望的标签出现再进行操作。  
 2.如何在selenium代码中直接嵌入javascript  
 
 ## TestBaidu, TestTaobao
